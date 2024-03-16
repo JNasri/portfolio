@@ -47,58 +47,10 @@ const Profile = ({ lang }) => {
                 />
                 <span>
                   {" "}
-                  . Looking for new challenges and gaining knowledge from
-                  experts.
+                  . Looking for job opportunities, new challenges and gaining knowledge from experts.
                 </span>
               </p>
             )}
-            <div className="d-flex justify-content-start">
-              <a
-                className="btn btn-lg rounded-circle mx-2"
-                style={{ backgroundColor: "#25d366" }}
-                href="https://wa.me/966537820352"
-                target="_blank"
-                role="button"
-              >
-                <i className="fab fa-whatsapp"></i>
-              </a>
-              <a
-                className="btn btn-lg rounded-circle mx-2"
-                style={{ backgroundColor: "#2663b9" }}
-                href="mailto:yusof.nasri@outlook.com"
-                target="_blank"
-                role="button"
-              >
-                <i className="far fa-envelope-open"></i>
-              </a>
-              <a
-                className="btn btn-lg rounded-circle mx-2"
-                style={{ backgroundColor: "#55acee" }}
-                href="https://t.me/YusofNasri"
-                target="_blank"
-                role="button"
-              >
-                <i className="fab fa-telegram"></i>
-              </a>
-              <a
-                className="btn btn-lg rounded-circle mx-2"
-                style={{ backgroundColor: "#0082ca" }}
-                href="https://www.linkedin.com/in/youssefnasri"
-                target="_blank"
-                role="button"
-              >
-                <i className="fab fa-linkedin"></i>
-              </a>
-              <a
-                className="btn btn-lg rounded-circle mx-2"
-                style={{ backgroundColor: "#333333" }}
-                href="https://github.com/JNasri"
-                target="_blank"
-                role="button"
-              >
-                <i className="fab fa-github" style={{ color: "white" }}></i>
-              </a>
-            </div>
           </div>
         </div>
         <div className="col-md-6" data-aos="fade-down">
