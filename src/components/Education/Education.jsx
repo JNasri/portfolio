@@ -44,7 +44,7 @@ const Education = ({ lang }) => {
                     />{" "}
                     ممارس سحابي معتمد{" "}
                     <a
-                      href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-40b59407-ad86-4dcb-90fb-9741741aa4e0.pdf"
+                      href="https://ugc.production.linktr.ee/14da827d-9c86-40f8-99bb-209c485f56df_AWS-Certified-Cloud-Practitioner-certificate.pdf"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -54,8 +54,8 @@ const Education = ({ lang }) => {
                       ></i>
                     </a>
                   </p>
-                  <p className="h6">🌐 دورة استعدادية لاختبار AWS CCP</p>
-                  <p className="h6">🏛️ منصة Udemy</p>
+                  <p className="h6">🌐 شهادة معتدمة في الحوسبة السحابية</p>
+                  <p className="h6">🏛️ منصة أمازون للخدمات السحابية</p>
                 </>
                 <hr />
                 <>
@@ -126,7 +126,7 @@ const Education = ({ lang }) => {
                     />{" "}
                     Certified cloud practitioner{" "}
                     <a
-                      href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-40b59407-ad86-4dcb-90fb-9741741aa4e0.pdf"
+                      href="https://ugc.production.linktr.ee/14da827d-9c86-40f8-99bb-209c485f56df_AWS-Certified-Cloud-Practitioner-certificate.pdf"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -136,10 +136,8 @@ const Education = ({ lang }) => {
                       ></i>
                     </a>
                   </p>
-                  <p className="h6">
-                    🌐 Online course to prepare for AWS CCP exam
-                  </p>
-                  <p className="h6">🏛️ Udemy Platform</p>
+                  <p className="h6">🌐 An official AWS certification</p>
+                  <p className="h6">🏛️ Amazon Web Services</p>
                 </>
                 <hr />
                 <>
